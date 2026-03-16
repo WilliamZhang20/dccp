@@ -214,3 +214,4 @@ def linearize(
     # Legacy Path (Non-DPP, rebuilds expression with constants)
     return _linearize_legacy(expr)
 
+
